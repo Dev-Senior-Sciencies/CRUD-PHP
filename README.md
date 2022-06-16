@@ -18,7 +18,7 @@ Hoje, no projeto **_PHP CRUD _**, Usei meus conhecimentos para revisar e consoli
 
 ## Desenvolvimento
 
-Você devera cria sua api com o nome api no arquivo .env.
+Você devera cria sua o banco com o nome api no arquivo .env
 
 Tambem tera que execulta o comando no seu terminal "php artisan migrate" para subir sua migrate para seu banco de dados Alerta verifique se as tabelas foram criadas no seu banco!.
 
