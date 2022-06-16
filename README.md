@@ -1,54 +1,145 @@
-## Oiii eu sou a Samuel Lucas, Estudante de programação e tecnologia!
-<div align="center">
-  <a href="https://github.com/SanioDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanioDev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanioDev&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Samu-HTML" height="50" width="60" src="https://user-images.githubusercontent.com/93998809/150248478-3364c523-94a7-4582-bafd-77b35d298cf2.gif">
-  <img align="center" alt="Samu-CSS" height="50" width="60" src="https://user-images.githubusercontent.com/93998809/150248634-fe0cd48d-ff05-4a38-9798-c5544ddd9729.gif">
-  <img align="center" alt="Samu-js" height="50" width="60" src="https://user-images.githubusercontent.com/93998809/150248836-8cf649e4-d3a9-48ea-807a-c85c2419f967.gif">
-  <img align="center" alt="Samu-Linux" height="50" width="60" src="https://user-images.githubusercontent.com/93998809/149452173-ef3423e3-8352-472e-af44-a2402759204f.png">
-  <img align="center" alt="Samu-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Samu-Git" height="50" width="150" src="https://user-images.githubusercontent.com/93998809/150248649-9d3d77b9-e93b-4be2-ba6a-4884a37979cf.gif">
-  <img align="center" alt="Samu-Git-Hub" height="50" width="60" src="https://user-images.githubusercontent.com/93998809/150248731-9534ea22-fd61-44b9-b8c9-adc7690c6cec.gif">
-  <img align="right" alt="Samu-pic" height="150" style="border-radius:15px" src="https://user-images.githubusercontent.com/93998809/149452941-0ce05a7f-2a0b-42e2-9466-d7a97e4c7ff4.gif">
-</div>
+# Boas vindas ao repositório do projeto CRUD Com PHP!
 
-##
+Aqui você vai encontrar os detalhes de como Execulta o desenvolvimento do meu projeto a partir desse repositório.
 
-<div> 
-  <a href="https://www.youtube.com/channel/UCXDDUZ8UhnQbZ8R8yuoegFQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/samuca_luc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://api.whatsapp.com/message/FVVMWZEROXLKM1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
- <a href="https://discord.com/invite/PPsHaqAxd5" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHvnwdbVZJRfQkxDmCJNvGlGHnNWBvlSvPGNKMkpCCGVspsMPqvWhxSWHwRjgJDGtdfBpMS"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/samuel-lucas-gon%C3%A7alves-santana-8b653316b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
-<br>
-<br>
+# Entregáveis
 
-<div>
-<h2 align="right"><a id="user-content----𝓐𝓫𝓸𝓾𝓽-𝓶𝓮---" class="anchor" aria-hidden="true" href="#---𝓐𝓫𝓸𝓾𝓽-𝓶𝓮---"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> <g-emoji class="g-emoji" alias="fox_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f98a.png">🦊</g-emoji> ~ 🆂🅾🅱🆁🅴 🅼🅸🅼 ~ <g-emoji class="g-emoji" alias="fox_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f98a.png">🦊</g-emoji> </h2>
-    <a href="#" alt="Trybe" rel="nofollow"><img align="right" src="https://i.imgur.com/37MtfJB.png" style="max-width:100%;"></a>
-    <li>
-    <b>Nome:</b> Samuel Lucas</li>
-    <li>
-    <b>Nacionalidade:</b> Brasil
-    </li>
-    <li>
-    <b>Nick:</b> Sanio , SanioDev
-    </li>
-    <li>
-    <b>Gênero:</b> Masculino
-    </li>
-    <li>
-    <b>Hobbys:</b> Assistir Filmes, Assistir animes , Ler
-    </li>
-    <li>
-    <b>Trabalho:</b> Criando Jogos,Web Designer,Developer
-    </li>
-    <br>
-</div>
+<details>
+  <summary><strong>🤷🏽‍♀️ Como execulta</strong></summary><br />
+
+Para execulta o meu projeto você deverá da um git Clone deste repositório.
+
+</details>
+
+<details>
+  <summary><strong>👨‍💻 O que foi desenvolvido</strong></summary><br />
+
+Hoje, no projeto **_PHP CRUD _**, Usei meus conhecimentos para revisar e consolidar **todos** os principais conceitos vistos até o momento.
+
+## Desenvolvimento
+
+Você devera cria sua api com o nome api no arquivo .env.
+
+Tambem tera que execulta o comando no seu terminal "php artisan migrate" para subir sua migrate para seu banco de dados Alerta verifique se as tabelas foram criadas no seu banco!.
+
+Depois comando no seu terminal "php artisan serve" para abrir seu servido web. e verifica as tabelas Unidade e Empreendimentos do seu banco de dados Estao renderizadas na tela do seu desktop.
+
+</details>
+
+<details>
+  <summary><strong>🗓 Data de Entrega</strong></summary><br />
+
+-   Serão `2` dias de praso para o projeto.
+-   Data de entrega: `16/06/2022 03:00`.
+
+</details>
+
+## Orientações
+
+<details>
+  <summary><strong>:Voce precisa ter o PHP e o Compose instalado na sua maquina</strong></summary><br />
+  verifique se o PHP esta instalado com o camando no seu terminal "php -v"
+</details>
+
+-   Verificar se o Servi esta rodando localmente com http://127.0.0.1:8000/ como a rota padrão do DB;
+
+## Como Criar no seu banco de dados, os Valores da tabela Unidades
+
+-   utilizer a rota um banco com o nome de **`criarApiUnidade`** deste modo sua requisição deve se paresce com esta http://127.0.0.1:8000/criarApiUnidade
+
+-   Depois Preenher os campos em Branco com valores no formato da migrate Unidade da pasta database/migrations
+
+-   Depois e so salva e verifica no seu banco de dados!
+
+<details>
+  <summary><strong>👇 As configurações possuem o seguinte formato</strong></summary><br />
+            $table->integer('codigo');
+            $table->integer('bloco');
+            $table->decimal('valor');
+            $table->string('status');
+</details>
+
+## Como Ler no seu banco de dados, os Valores da tabela Unidades
+
+-   utilizer a rota um banco com o nome de **`ler-unidade/'`** deste modo sua requisição deve se paresce com esta http://127.0.0.1:8000/ler-unidade/1'
+
+-   Depois Verifica o ID no seu BANCO e Passa ele depois da / para que assim possa ver a Unidade
+
+-   Assim sera retornado para vocÊ o Render das Informações da unidade!
+
+## Como atualizar no seu banco de dados, os Valores da tabela Unidades
+
+-   utilizer a rota um banco com o nome de **`atualizar-unidade/'`** deste modo sua requisição deve se paresce com esta http://127.0.0.1:8000/ler-unidade/1'
+
+-   Depois Verifica o ID no seu BANCO e Passa ele depois da / para que assim possa atualizar a Unidade
+
+-   Assim sera retornado para vocÊ o os campos das Informações da unidade para atualizar!
+
+-   Depois click no Botão atualizar e verifica em seu banco de dados se foi atualizado
+
+## Como Deleta no seu banco de dados, os Valores da tabela Unidades
+
+-   utilizer a rota um banco com o nome de **`excluir-unidade/'`** deste modo sua requisição deve se paresce com esta http://127.0.0.1:8000/excluir-unidade/1'
+
+-   Depois Verifica o ID no seu BANCO e Passa ele depois da / para que assim possa excluir a Unidade
+
+-   Depois e so verifica se a unidade foi excluida no seu DB
+
+## Como Criar no seu banco de dados, os Valores da tabela empreendimento
+
+-   utilizer a rota um banco com o nome de **`criarApiEmpreendimento`** deste modo sua requisição deve se paresce com esta http://127.0.0.1:8000/criarApiEmpreendimento
+
+-   Depois Preenher os campos em Branco com valores no formato da migrate empreendimento da pasta database/migrations
+
+-   Depois e so salva e verifica no seu banco de dados!
+
+<details>
+  <summary><strong>👇 As configurações possuem o seguinte formato</strong></summary><br />
+            $table->integer('codigo');
+            $table->string('nome');
+            $table->string('localização');
+            $table->string('previsão');
+</details>
+
+## Como Ler no seu banco de dados, os Valores da tabela empreendimento
+
+-   utilizer a rota um banco com o nome de **`ler-empreendimento/'`** deste modo sua requisição deve se paresce com esta http://127.0.0.1:8000/ler-empreendimento/1'
+
+-   Depois Verifica o ID no seu BANCO e Passa ele depois da / para que assim possa ver o empreendimento
+
+-   Assim sera retornado para vocÊ o Render das Informações da empreendimento!
+
+## Como atualizar no seu banco de dados, os Valores da tabela empreendimento
+
+-   utilizer a rota um banco com o nome de **`atualizar-empreendimento/'`** deste modo sua requisição deve se paresce com esta http://127.0.0.1:8000/atualizar-empreendimento/1'
+
+-   Depois Verifica o ID no seu BANCO e Passa ele depois da / para que assim possa atualizar o empreendimento
+
+-   Assim sera retornado para vocÊ o os campos das Informações do empreendimento para atualizar!
+
+-   Depois click no Botão atualizar e verifica em seu banco de dados se foi atualizado
+
+## Como Deleta no seu banco de dados, os Valores da tabela empreendimento
+
+-   utilizer a rota um banco com o nome de **`excluir-empreendimento/'`** deste modo sua requisição deve se paresce com esta http://127.0.0.1:8000/excluir-empreendimento/1'
+
+-   Depois Verifica o ID no seu BANCO e Passa ele depois da / para que assim possa excluir o empreendimento
+
+-   Depois e so verifica se o empreendimento foi excluida no seu DB
+
+<details>
+  <summary><strong>➕ Informações Importantes</strong></summary><br />
+
+As migrations estão no caminho api/database/migrations:
+
+O codigo da views estão no caminho api/resources/views com html:
+
+O codigo dos GET/POST estão no caminho api/routes/web.php com todas a funções comentadas:
+
+Espero que aproveitem o projeto me dando um feedback, Pois tive que me vira para apreender php pois nunca tinha programado em php, pois quero muito da meu melhor e apreender essa liguagem, o projeto foi feito com PHP Laravel
+
+Gostou venha fala comigo meu email e samuellucas24383@gmail.com
+
+esse projeto e pub se quiser implementa funçonalidades novas e so clonar o repositorio e eu mesmo me resposabilizo por atualiza-lo
+
+</details>
